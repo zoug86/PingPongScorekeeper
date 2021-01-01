@@ -1,0 +1,10 @@
+html{
+    background-color:rgb(238, 234, 228);
+}
+.winner{
+    color: green;
+}
+
+.loser{
+    color: red;
+}
